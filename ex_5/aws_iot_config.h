@@ -9,5 +9,6 @@
 #define AWS_IOT_TOPIC "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-WorldTemperatures/wtemp" // your topic (replace this with the topic shown in your iotsky project page)
 #define MY_LATITUDE 37.87 // your current latitude
 #define MY_LONGITUDE 122.27 // your current longitude
+#define APP_NAME My_Temp_App
 //===============================================================
 

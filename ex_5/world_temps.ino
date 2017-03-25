@@ -86,6 +86,7 @@ void loop() {
                 String(degrees_in_celsius) + 
                 String(", \"app_name\": \"world_temp\", \"longitude\": ") + 
                 String(MY_LONGITUDE) + 
+                String(", \"name\": \"") + APP_NAME + String("\"")
                 String("}");
       
       Serial.println("Sending:");
